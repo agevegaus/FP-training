@@ -1,3 +1,5 @@
 # FP-training
 
-Hola
+Extensiones de visual studio code:
+
+* GitHub Copilot
