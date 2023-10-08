@@ -10,7 +10,7 @@ def a_cero(nota):
     return res
 
 
-# Hace la media de las notas de teoría y devuelve 0 si es menor que 4
+# Hace la media de las notas de teoría y devuelve 0 si es menor que 4 
 def nota_teoria(nota1, nota2):
 
     t1 = a_cero(nota1)
